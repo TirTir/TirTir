@@ -5,7 +5,9 @@
 
 #### Web Developer / Systems Engineering
 
-<img src="https://github.com/TirTir/TirTir/assets/73577283/7b3c044e-d281-462e-80f3-f8a1ef42e41e" width="200" height="200"/>
+<a href="https://www.credly.com/badges/a7ed0775-1343-48e0-8eda-baebb2be4a77/public_url" target="_blank">
+  <img src="https://github.com/TirTir/TirTir/assets/73577283/b07c1777-2867-4be1-9b08-35daa9a4252f" width="200" height="200" />
+</a>
 
 <br>
 <div align=center><h2>📚STACKS</h2>
