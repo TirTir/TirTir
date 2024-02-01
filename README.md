@@ -42,11 +42,3 @@
 <div>
   <br>
 </div>
-  
-<div align=startr><h2>🏆 Awards</h2></div>
-
-|Competition|Prize|Date|
-|------|---|---|
-|Employment Club Performance Presentation|Excellence Award|Jun 23, 2023|
-|Pre-Startup Item Competition|President's Award|Dec 7, 2022|
-
