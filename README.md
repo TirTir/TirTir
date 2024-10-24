@@ -3,6 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTirTir&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TirTir)
 
+
 #### Server Developer
 
 <a href="https://www.credly.com/badges/a7ed0775-1343-48e0-8eda-baebb2be4a77/public_url" target="_blank">
@@ -10,15 +11,14 @@
 </a>
 
 <br>
-
-<a href="https://solved.ac/uj0791"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uj0791&theme=dark"/></a>
-<div align=center><p>📚STACKS</p>
+<div align=center><h3>📚STACKS</h3>
+<br>
 <div align=center> 
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <br>
-  
+
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -35,4 +35,13 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <br>
   <br>
+</div>
+<div>
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirTir&layout=compact&theme=merko" alt="Top Langs" style="display: inline-block;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=uj0791" alt="Solved.ac Profile" style="display: inline-block;" />
 </div>
