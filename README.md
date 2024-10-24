@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTirTir&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TirTir)
 
-#### Server Developer / Systems Engineering
+#### Server Developer
 
 <a href="https://www.credly.com/badges/a7ed0775-1343-48e0-8eda-baebb2be4a77/public_url" target="_blank">
   <img src="https://github.com/TirTir/TirTir/assets/73577283/b07c1777-2867-4be1-9b08-35daa9a4252f" width="200" height="200" />
@@ -38,3 +38,5 @@
 <div>
   <br>
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uj0791)](https://solved.ac/uj0791/)
